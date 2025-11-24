@@ -39,17 +39,14 @@ O projeto foi desenvolvido exclusivamente para fins acadêmicos na disciplina de
 
 ---
 
-## Bibliotecas e Frameworks  
+## Bibliotecas  
 - `<stdio.h>`  
 - `<stdlib.h>`  
 - `<string.h>`  
 
-Nenhum framework adicional foi utilizado.
-
 ---
 
 ## Pré-requisitos e Instalações  
-Instalado:
 - GCC ou outro compilador compatível com C  
 - Sistema operacional Windows, Linux ou Mac OS  
 - Terminal ou CMD
