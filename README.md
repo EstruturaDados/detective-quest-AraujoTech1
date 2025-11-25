@@ -70,5 +70,5 @@ s → encerrar exploração
 
 ---
 
-© 2024 — Desenvolvido para fins educacionais | Estácio de Sá.
+© 2025 — Desenvolvido para fins educacionais | Estácio de Sá.
 
